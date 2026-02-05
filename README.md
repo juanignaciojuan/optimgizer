@@ -1,0 +1,1 @@
+Herramienta para optimizar jpg/jpeg, png y webp. Comprime las imágenes a > 1mb manteniendo su calidad. Es necesario instalar ffmpeg en PATH y que las imágenes a optimizar estén dentro de una carpeta junto al archivo .bat. Hecho con github copilot.
